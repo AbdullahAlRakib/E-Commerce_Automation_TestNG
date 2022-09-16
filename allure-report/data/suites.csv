@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Thu Sep 15 15:25:17 BDT 2022","Thu Sep 15 15:25:28 BDT 2022","10424","E-commerce portal automation","E-commerce portal signup","OrderTestRunner","OrderTestRunner","checkProductSummary","checkProductSummary",""
-"broken","Thu Sep 15 15:24:56 BDT 2022","Thu Sep 15 15:25:07 BDT 2022","10491","E-commerce portal automation","E-commerce portal signup","OrderTestRunner","OrderTestRunner","addToCart","addToCart",""
-"broken","Thu Sep 15 15:19:13 BDT 2022","Thu Sep 15 15:22:13 BDT 2022","180063","E-commerce portal automation","E-commerce portal signup","OrderTestRunner","OrderTestRunner","chooseProduct","chooseProduct",""
-"broken","Thu Sep 15 15:18:22 BDT 2022","Thu Sep 15 15:19:13 BDT 2022","50407","E-commerce portal automation","E-commerce portal signup","OrderTestRunner","OrderTestRunner","searchProduct","searchProduct",""
